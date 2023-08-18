@@ -4,7 +4,6 @@ This project showcases a 3D cube animation using WebGL. The cube can be rotated 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
