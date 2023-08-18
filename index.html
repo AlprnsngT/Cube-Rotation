@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <canvas id="canvas" width="1000" height="1000"></canvas>
+        <h1>speed : </h1><input type="range" min="-5" max="5" step="1" value="0" id="speedSlider" onchange="updateRotationSpeed()" />
+        
+        <script src="cube.js"></script> 
+        <button onclick="rotateXAxis()">rotate X</button>
+        <button onclick="rotateYAxis()">rotate Y</button>
+        <button onclick="rotateZAxis()">rotate Z</button>
+    </body>
+</html>
