@@ -1,4 +1,4 @@
-WebGL Cube Animation
+# WebGL Cube Animation
 This project showcases a 3D cube animation using WebGL. The cube can be rotated along the X, Y, and Z axes using interactive buttons or a slider to control the rotation speed. The cube consists of two parts: a centered cube and another cube adjacent to it. Each part has different colored faces, and the animation provides a dynamic visual representation of the cube's rotation.
 
 
